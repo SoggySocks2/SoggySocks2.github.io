@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/svg/home.css"],"names":[],"mappings":"AAAA,UACI,YAAgB,CAChB,WAAY,CACZ,UACJ","file":"main.7979b783.chunk.css","sourcesContent":[".homeIcon {\r\n    fill: chartreuse;   \r\n    height: 40px; \r\n    width: 40px;\r\n}"]}
